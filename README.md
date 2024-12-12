@@ -4,7 +4,7 @@
 
 🌟 Passionate about building high-performance systems and intelligent solutions
   
-🔬 Technology Expertise
+🔬 Technology
 - Systems Engineering
 - Cloud Solutions
 - AI/ML Development
