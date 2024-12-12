@@ -13,3 +13,6 @@
 - Digital Transformation
 - Technology Consulting
 - Strategic Innovation
+
+#### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/me-myself-sk)
