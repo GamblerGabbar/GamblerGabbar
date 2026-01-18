@@ -1,6 +1,6 @@
-## 👋 Hi, I'm Sunil Kerketta
+##  Hi, I'm Sunil Kerketta
 
-### 🚀 C++ | Cloud | Machine Learning Engineer
+###  C++ | Cloud | Machine Learning Engineer
 
 🌟 Passionate about building high-performance systems and intelligent solutions
   
