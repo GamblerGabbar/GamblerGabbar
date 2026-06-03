@@ -2,14 +2,14 @@
 
 ###  C++ | Cloud | Machine Learning Engineer
 
-* Passionate about building high-performance systems and intelligent solutions
+ Passionate about building high-performance systems and intelligent solutions
   
-* Technology
+** Technology
 - Systems Engineering
 - Cloud Solutions
 - AI/ML Development
 
-* Business Strategy
+** Business Strategy
 - Digital Transformation
 - Technology Consulting
 - Strategic Innovation
